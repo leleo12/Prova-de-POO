@@ -1,0 +1,5 @@
+C:\Users\Pedro\Desktop\Prova POO\3A1Pedro37\3A1Pedro37\obj\Debug\3A1Pedro37.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Prova POO\3A1Pedro37\3A1Pedro37\obj\Debug\_3A1Pedro37.FormGames.resources
+C:\Users\Pedro\Desktop\Prova POO\3A1Pedro37\3A1Pedro37\obj\Debug\_3A1Pedro37.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Prova POO\3A1Pedro37\3A1Pedro37\obj\Debug\3A1Pedro37.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Prova POO\3A1Pedro37\3A1Pedro37\obj\Debug\3A1Pedro37.csproj.CoreCompileInputs.cache
